@@ -1,7 +1,7 @@
 # NetLagX
 
 >[!IMPORTANT]
-> NetLagX currently may not work as it is not in a stable state and needs improvisons. If you would like to contribute, make a PR, or DM **@playfairs** on Discord, and I can probably add you to the Repository.
+> I for one don't know basically anything about netowrking, so NetLagX currently may not work as it is not in a stable state and needs improvisons. If you would like to contribute, make a PR, or DM **@playfairs** on Discord, and I can probably add you to the Repository.
 
 ---
 
