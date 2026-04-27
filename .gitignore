@@ -1,0 +1,55 @@
+# Build artifacts
+obj/
+bin/
+*.o
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.ilk
+
+# Core dumps
+core
+core.*
+
+# Log files
+*.log
+
+# Dependency files
+*.d
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Nix files
+result
+result-*
+
+# Direnv
+.envrc.local
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*.tmp
+*.temp
+
+# Package files
+*.tar.gz
+*.zip
+*.rar
+
+# Local configuration
+config.local
